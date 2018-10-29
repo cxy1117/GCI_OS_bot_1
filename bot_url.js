@@ -1,1 +1,1 @@
-
+<script type='text/javascript' id='susi-bot-script' data-userid='19a17cb8833b222b10e6372382d22cb2' data-group='Games, Trivia and Accessories' data-language='en' data-skill='Bot_T2' src='https://skills.susi.ai/susi-chatbot.js'></script>
